@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://e3yapi.com.tr/sitemap.xml
+Sitemap: https://www.e3yapi.com.tr/sitemap.xml
